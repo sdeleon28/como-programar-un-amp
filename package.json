@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sdeleon28/como-programar-un-amp/issues"
   },
-  "homepage": "https://github.com/sdeleon28/como-programar-un-amp#readme"
+  "homepage": "https://github.com/sdeleon28/como-programar-un-amp#readme",
+  "devDependencies": {
+    "@marp-team/marp-cli": "^2.3.0"
+  }
 }
