@@ -1,0 +1,19 @@
+{
+  "name": "como-programar-un-amp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdeleon28/como-programar-un-amp.git"
+  },
+  "author": "sdeleon28@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdeleon28/como-programar-un-amp/issues"
+  },
+  "homepage": "https://github.com/sdeleon28/como-programar-un-amp#readme"
+}
