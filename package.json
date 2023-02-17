@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "npx marp src/slides.md -o out/slides.html --html 1",
+    "watch": "npx marp src/slides.md -o out/slides.html -w --html 1"
   },
   "repository": {
     "type": "git",
