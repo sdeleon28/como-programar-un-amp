@@ -1,3 +1,10 @@
 # Cómo programar un amplificador de guitarra?
 
-Las slides están en el archivo `out/slides.html`
+Correr:
+
+```
+npm install
+npm run build
+```
+
+El resultado estará en la carpeta `out/`
